@@ -25,6 +25,11 @@ Discover open ports on devices in the local network using Nmap to understand net
    ```bash
    sudo nmap -sS 192.168.1.0/24 -oN scan_result.txt
 
+## Nmap Scan Screenshot
+
+![Nmap Screenshot](screenshots/task1.png)
+
+
 
 ## Security Risks
 ### Open Ports:
